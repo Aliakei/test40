@@ -53,6 +53,16 @@ CrossRefFollowFromMainSettings=1
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[ProjectReleaseNamings]
+ProjectMarc=
+ProjectItemFolderPat=
+ProjectItemFolderGUI=
+ProjectItemHRI=
+Source=
+Fabricatio=
+Assembl=
+Custom - =
+
 [Release]
 ReleaseTarget=3
 
@@ -259,7 +269,7 @@ Value=A
 Name=Sources
 ParameterCount=0
 ConstraintFileCount=0
-ReleaseItemId=
+ReleaseItemId=752A343F-C7D9-4D99-BCE4-0CCD943BEAFD
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
@@ -284,6 +294,18 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=0D12F8DC-E60C-11DF-B822-12313F0024A2
 ConfigurationType=Assembly
+
+[Configuration4]
+Name=Custom - 1
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=5999F3A2-76F1-4F3A-9461-9CA253AB6AAD
+Variant=[No Variations]
+OutputJobsCount=1
+DocumentReferenceClass1=DocumentReference
+OutputJobFileName1=Job1.OutJob
+ContentTypeGUID=B953ABBB-897D-493B-96D2-85DABE1896C4
+ConfigurationType=Custom
 
 [Generic_EDE]
 OutputDir=Project Outputs
